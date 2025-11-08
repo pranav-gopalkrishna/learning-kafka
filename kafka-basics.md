@@ -4,7 +4,7 @@
 
 **Contents**:
 
-- [Apache Kafka](#apache-kafka)
+- [Kafka](#kafka)
 - [Concepts](#concepts)
   - [Servers](#servers)
   - [Clients](#clients)
@@ -16,7 +16,7 @@
 
 > **Necessary reading**: [*Kafka Introduction](./kafka-introduction.md)
 
-# Apache Kafka
+# Kafka
 A distributed system of servers and clients...
 
 ... that communicate via high-performance TCP network protocol.
