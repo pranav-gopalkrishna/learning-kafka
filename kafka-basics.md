@@ -14,7 +14,7 @@
 
 ---
 
-> **Necessary reading**: [*Kafka Introduction](./kafka-introduction.md)
+> **Necessary reading**: [*Kafka Introduction*](./kafka-introduction.md)
 
 # Kafka
 A distributed system of servers and clients...
