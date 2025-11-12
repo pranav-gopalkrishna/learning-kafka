@@ -88,3 +88,10 @@ Key points:
 - Partitions are the actual storage spaces in which topic data is stored
 - Topics are the logical organisation of data
 - Partitions help scale up a topic's data-referencing
+
+In short:
+
+- A server's (broker's) data is divided into partitions
+- Partition data is logically organised via topics
+
+> **Additional reference**: [*Kafka System Design Deep Dive w/ a Ex-Meta Staff Engineer* by Hello Interview - SWE Interview Preparation, **www.youtube.com**](https://www.youtube.com/watch?v=DU8o-OTeoCc)
