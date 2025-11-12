@@ -82,3 +82,9 @@ Key points:
 - Replication of topics:
     - Every topic can be replicated to make data fault-tolerant and highly available <br> *Even across geo-centres and datacentres*
     - Replication is performed at the level of topic partitions
+
+**NOTE**:
+
+- Partitions are the actual storage spaces in which topic data is stored
+- Topics are the logical organisation of data
+- Partitions help scale up a topic's data-referencing
